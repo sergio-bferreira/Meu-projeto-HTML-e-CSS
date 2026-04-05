@@ -21,9 +21,3 @@
     A busca de soluções é que gera mudança.</p>
 </body>
 </html>
-
-
-
-{
-  "nome": "Jane Smith", "idade": 35, "cidade": "São Francisco", "email": "janesmith@sample.com"
-}
